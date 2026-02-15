@@ -1,22 +1,28 @@
-# Noah — Data & Business Analytics Portfolio
+# Noah Rebyffé
 
-## About Me
-Business-oriented profile transitioning into Data & Business Analytics.  
-Currently training in Excel, SQL, Python and Power BI.  
-Seeking an apprenticeship in Data / Business Analytics.
+## À propos de moi
 
-## Tools
-- Excel (Advanced dashboards & KPI analysis)
-- SQL (Learning)
-- Python (Learning)
-- Power BI (Planned - June 2026)
+Profil orienté business en transition vers la Data & Business Analytics.  
+Actuellement en formation sur Excel, SQL, Python et Power BI.  
+À la recherche d’une alternance en Data / Business Analytics.
 
-## Projects
+## Compétences & Outils
 
-### 1. Excel Performance Analysis (In Progress)
-Business sales performance dashboard and KPI analysis.
+- Excel (Tableaux croisés dynamiques, KPIs, dashboards)
+- SQL (en cours d’apprentissage)
+- Python (en cours d’apprentissage)
+- Power BI (prévu à partir de juin 2026)
 
-More projects coming soon (SQL, Python, Power BI).
+## Projets
+
+### 1. Analyse de performance commerciale (Excel) — En cours
+Création d’un dashboard de suivi de performance et analyse des indicateurs clés.
+
+Prochains projets :
+- Analyse SQL (requêtes business)
+- Analyse exploratoire en Python
+- Dashboard Power BI
 
 ## Contact
-LinkedIn: (add your link)
+
+LinkedIn : https://www.linkedin.com/in/noah-rebyff%C3%A9-22b730252/
